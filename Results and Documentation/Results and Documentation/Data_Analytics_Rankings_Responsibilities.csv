@@ -1,0 +1,186 @@
+Name,GLoVe,TFiDF,GLoVe + TFiDF,Text Distance,Bert
+Aakash Rathod,55,14,14,176,54
+Aditi Gaikwad,47,29,29,130,82
+Ajay Iyer,170,171,171,106,7
+Akhila Reddy Jali,43,17,17,182,119
+Ali Bagheri Tirtashi,144,86,86,185,62
+Alonso Bautista Martin,162,166,166,93,86
+Aman Khosla,72,36,36,114,44
+Amogh Pai,127,99,99,169,10
+Anirudh Nair,31,2,2,34,125
+Arham Choraria,115,155,155,44,168
+Atalay Denknalbant,120,138,138,183,27
+Ben Kreitner,133,32,32,121,178
+Brinda Sarkar,18,38,38,35,96
+Catherine Donner,103,160,160,152,52
+Chengcheng Feng,108,59,59,143,182
+Chuqiao(Kathleen) Li,15,11,11,85,153
+Deema Alnuhait,148,111,111,137,19
+Deep Arvind Bambharoliya,156,98,98,167,12
+Diana Sîrbu,0,0,0,0,0
+Ehsan Matinfar,1,77,77,138,118
+Eric Tran,157,94,94,107,156
+Fnu Gitanjali,16,25,25,45,171
+Giri Sai Sriram Mullangi,161,172,172,97,3
+Gogulkumar Mathi,32,34,34,68,126
+Gunjan Toora,52,107,107,24,72
+Han Seok Suh,38,33,33,25,157
+Hardik Singh,70,85,85,122,111
+Hitesh Manivannan,134,136,136,153,122
+Hritik Shah,20,9,9,115,80
+Ikram Khan,78,170,170,110,90
+Ines Bousselmi,75,152,152,46,128
+Jeewon Koo,174,119,119,171,4
+Jiahang Wu,135,105,105,111,151
+Jingyi Wu,76,55,55,108,166
+Joseph Venturini,183,109,109,154,1
+Kedar S F,45,18,18,7,103
+Keegan Veazey,48,102,102,36,15
+Kevin Gong,146,131,131,8,66
+Kshitij Zutshi,89,178,178,179,78
+Lavanya Kumaran,126,161,161,144,87
+Le Cai,59,167,167,0,5
+Letícia Neves dos Santos,0,0,0,0,0
+Mayank Jain,166,41,41,13,160
+Meghna Ashok,109,76,76,123,152
+Mohamad Ali Kalassina,46,88,88,163,8
+Mrunali Ghelani,149,81,81,181,143
+Muhammad Saad Zahoor,60,39,39,161,137
+Mukul Anand,173,106,106,116,93
+Murad Mammadli,114,147,147,47,83
+Muskaan Parmar,141,95,95,48,47
+Naga Sai Anirudh Nori,118,52,52,164,58
+Naman Bhatia,74,19,19,124,29
+Neerbhaya J B Rana,169,122,122,184,144
+Nima Razavi,85,97,97,125,0
+Omid Halimi Milani,152,142,142,157,2
+Pratik Multani,61,6,6,139,92
+Priyam Shah,33,35,35,14,16
+Radhika Shukla,2,7,7,49,162
+Rahul Fernandez,112,173,173,60,121
+Rahul Gaikwad,105,21,21,131,89
+Rajat Bhat,62,1,1,172,150
+Rio Zhao,58,66,66,170,180
+Rouzbeh Roshani,104,75,75,145,17
+Rubina Pradhan,122,48,48,140,34
+Rushal Gawali,19,4,4,132,42
+Sagar Gupta,151,83,83,117,97
+Sahil Sawant,69,57,57,26,116
+Sarthak Bhargava,140,26,26,149,141
+Sayali Madhukar Babar,95,90,90,89,39
+Shachi Garga,91,89,89,126,127
+Shruti Sorte,0,0,0,0,0
+Shubhangi Goyal,66,51,51,61,81
+Siyi Wu,113,27,27,103,101
+Sk Saqlain Ali,150,185,185,50,26
+Soumya Shukla,56,44,44,177,109
+Sridhar Ippili,49,135,135,51,50
+Suhaas Bharadwaj Mudigonda,42,30,30,99,64
+Sumeet Duddagi,86,3,3,141,98
+Sunil Verma,28,70,70,174,155
+SUSHANTH Suresh Kumar,54,37,37,162,49
+Swapnil Sethi,64,15,15,133,120
+Tianyuan Deng,106,120,120,178,147
+Tim L Giang,73,143,143,127,37
+VAIBHAV SINGH,184,174,174,134,129
+Venkata Krishna Sunkara,160,118,118,165,164
+Vikash Makani,98,100,100,135,102
+Vikramjeet Singh,36,113,113,150,183
+Vincent Claussen,178,179,179,155,38
+Xile Zhang,97,117,117,112,132
+Xinze Yu,71,96,96,2,142
+Yang(Cynthia) Chen,155,164,164,158,131
+Yu-Chih Chen,39,10,10,175,25
+Yue (Cora) Mao,0,0,0,0,0
+Abishek Muralikrishna,14,121,121,90,179
+Adarsh Challa,67,65,65,52,33
+Aditya Gaikwad,57,74,74,53,104
+Akshay Deshmukh,10,84,84,62,181
+Andrew Black,180,158,158,27,174
+Anindita Deb,41,61,61,28,186
+Atharva Saykhedkar,94,46,46,80,69
+Bhanu Krishna Motamarri,82,56,56,166,170
+Bhargav Nelluri,65,101,101,63,165
+Chang Wu,27,42,42,104,105
+Cheng Chen,182,126,126,113,40
+Cynthia Liu,7,62,62,15,130
+Dareen Hussein,80,73,73,54,21
+Devin Larson,153,150,150,29,110
+Dhrumil Parekh,26,45,45,55,46
+FRANCISCO RODRIGO ALONSO CASTELLANOS,179,183,183,168,112
+Fuchun Yang,88,123,123,118,117
+Hana Abdel-Megeed,116,182,182,75,113
+Harshit Shrimali,139,125,125,151,61
+Humphrey Han,63,22,22,30,106
+Jai kiran Rajana,6,13,13,69,145
+Jayasurya Ragupathi,25,92,92,160,133
+Jiatao Yuan,0,0,0,0,0
+Jiazhi Jia,30,157,157,9,158
+Jingwen (Lilly) Huang,117,149,149,94,176
+Karim Lakhani,107,140,140,37,99
+Kedar Ghule,44,132,132,16,53
+Kerwin(Wenjie) Du,50,68,68,76,73
+KEXI PI,40,139,139,1,6
+Khushi Patel,147,176,176,56,161
+Leana Mauricette,4,20,20,77,32
+Lillian Sun,177,177,177,173,167
+Maulishree Gupta,87,69,69,70,55
+Max Tjen,137,71,71,105,139
+Meg (Chia-Chien) Wu,167,168,168,83,123
+Mei-Chu Chen,23,5,5,128,146
+Merih Rana Biterge,90,114,114,159,175
+Michelle Zeng,0,0,0,0,0
+Mukund Kalantri,29,50,50,146,68
+Nadhiya Ganesan,142,163,163,64,56
+Naibiao Jin,9,64,64,17,124
+Nathan Riemer,132,181,181,38,100
+Nayah Boucaud,92,110,110,39,9
+Neha Patnaik,22,53,53,31,108
+Pradyuman Gangan,79,165,165,71,115
+Pranav Bhandari,130,146,146,65,149
+Prathmesh Desai,34,82,82,66,67
+Premchand Jayachandran,129,103,103,95,159
+Rahul Rammohan Mandical,21,129,129,96,172
+Rishabh Bhatt,12,31,31,40,140
+Rishabh Raj Makhija,131,104,104,84,75
+Rohan Srivastava,111,16,16,72,114
+Ruiting Zha,171,133,133,18,13
+Sakshi Grover,17,23,23,41,84
+Sameep Sheth,83,116,116,129,20
+Samrat Talukder,165,162,162,67,14
+Sanskriti Parajuli,110,112,112,86,134
+Shiva Abhishek Varma Penmetsa,93,12,12,100,177
+Shreeja Kikkisetti,81,154,154,81,63
+Shreya Sudheer Karakata,84,144,144,186,94
+Shrivatson Ramaratnam Giridharan,124,79,79,102,30
+Sinchana Sulugodu Shashidhara,125,151,151,101,24
+Suraj Kumar,175,175,175,19,138
+Suyash Prashant Gupte,101,87,87,91,28
+Swanand Barsawade,176,156,156,78,45
+Tayler Erbe,35,72,72,20,79
+Thi Nguyen,68,78,78,10,91
+Tu Nguyen,119,137,137,4,51
+Tulika Kotian,158,47,47,42,70
+Vaishnavi rao Kandula,0,0,0,0,0
+Vignesh Kumar Baskar,159,91,91,87,18
+Vraj Patel,185,186,186,11,71
+Xiukui Ji,0,0,0,0,0
+Yash Wasnik,8,24,24,21,184
+Yujia Zhai,102,43,43,12,169
+Yutai Li,51,153,153,3,57
+Zain Ul Abdeen,100,67,67,57,31
+Zarina Davletova,99,115,115,73,136
+Zeynep Ebrar Çelikel,0,0,0,0,0
+Abdullah Kasri,0,0,0,0,0
+Andrea Perez Acevedo,186,184,184,88,95
+Andrew Luo,37,40,40,119,77
+Bardia Mouhebat,77,80,80,147,48
+Bryan Helms,136,127,127,22,36
+Fangxin Wang,163,124,124,32,185
+Jacob Marin-Tomson,128,145,145,82,59
+Jeff Shen,138,159,159,5,85
+Jessie Huang,143,130,130,33,76
+Kaival J. Panchal,154,58,58,79,23
+Karima SELMANI BOUAYOUNE,172,180,180,98,22
+Leo Moley,0,0,0,109,135
+Md Nehal Salik,13,108,108,58,11
